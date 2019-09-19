@@ -19,7 +19,8 @@ namespace TripMileageApp
 
         private void button1_Click(object sender, EventArgs e)
         {
-            double dLitres;double dKilometers;
+            double dLitres;
+            double dKilometers;
             
 
             if(double.TryParse(textBox2.Text, out dLitres) == false)
@@ -38,5 +39,12 @@ namespace TripMileageApp
             lblAnswerLevel.Text = "Kilometer per hour: " + (dKilometers / dLitres).ToString("F1");
         }
 
+        private void Button2_Click(object sender, EventArgs e)
+        {
+            textBox2.Text = "";
+            textBox2.Focus();
+            textBox3.Text = "";
+            lblAnswerLevel.Text = "";
+        }
     }
 }

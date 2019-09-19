@@ -8,3 +8,13 @@ E:\HollandCollege\Fall_2019\WindowsProgramming\TripMileageApp\TripMileageApp\obj
 E:\HollandCollege\Fall_2019\WindowsProgramming\TripMileageApp\TripMileageApp\obj\Debug\TripMileageApp.csproj.CoreCompileInputs.cache
 E:\HollandCollege\Fall_2019\WindowsProgramming\TripMileageApp\TripMileageApp\obj\Debug\TripMileageApp.exe
 E:\HollandCollege\Fall_2019\WindowsProgramming\TripMileageApp\TripMileageApp\obj\Debug\TripMileageApp.pdb
+E:\Dumy Projects\C_Sharp_WinForm_Apps\TripMileageApp\TripMileageApp\bin\Debug\TripMileageApp.exe.config
+E:\Dumy Projects\C_Sharp_WinForm_Apps\TripMileageApp\TripMileageApp\bin\Debug\TripMileageApp.exe
+E:\Dumy Projects\C_Sharp_WinForm_Apps\TripMileageApp\TripMileageApp\bin\Debug\TripMileageApp.pdb
+E:\Dumy Projects\C_Sharp_WinForm_Apps\TripMileageApp\TripMileageApp\obj\Debug\TripMileageApp.csprojAssemblyReference.cache
+E:\Dumy Projects\C_Sharp_WinForm_Apps\TripMileageApp\TripMileageApp\obj\Debug\TripMileageApp.Form1.resources
+E:\Dumy Projects\C_Sharp_WinForm_Apps\TripMileageApp\TripMileageApp\obj\Debug\TripMileageApp.Properties.Resources.resources
+E:\Dumy Projects\C_Sharp_WinForm_Apps\TripMileageApp\TripMileageApp\obj\Debug\TripMileageApp.csproj.GenerateResource.cache
+E:\Dumy Projects\C_Sharp_WinForm_Apps\TripMileageApp\TripMileageApp\obj\Debug\TripMileageApp.csproj.CoreCompileInputs.cache
+E:\Dumy Projects\C_Sharp_WinForm_Apps\TripMileageApp\TripMileageApp\obj\Debug\TripMileageApp.exe
+E:\Dumy Projects\C_Sharp_WinForm_Apps\TripMileageApp\TripMileageApp\obj\Debug\TripMileageApp.pdb
