@@ -1,0 +1,10 @@
+E:\HollandCollege\Fall_2019\WindowsProgramming\TripMileageApp\TripMileageApp\bin\Debug\TripMileageApp.exe.config
+E:\HollandCollege\Fall_2019\WindowsProgramming\TripMileageApp\TripMileageApp\bin\Debug\TripMileageApp.exe
+E:\HollandCollege\Fall_2019\WindowsProgramming\TripMileageApp\TripMileageApp\bin\Debug\TripMileageApp.pdb
+E:\HollandCollege\Fall_2019\WindowsProgramming\TripMileageApp\TripMileageApp\obj\Debug\TripMileageApp.csprojAssemblyReference.cache
+E:\HollandCollege\Fall_2019\WindowsProgramming\TripMileageApp\TripMileageApp\obj\Debug\TripMileageApp.Form1.resources
+E:\HollandCollege\Fall_2019\WindowsProgramming\TripMileageApp\TripMileageApp\obj\Debug\TripMileageApp.Properties.Resources.resources
+E:\HollandCollege\Fall_2019\WindowsProgramming\TripMileageApp\TripMileageApp\obj\Debug\TripMileageApp.csproj.GenerateResource.cache
+E:\HollandCollege\Fall_2019\WindowsProgramming\TripMileageApp\TripMileageApp\obj\Debug\TripMileageApp.csproj.CoreCompileInputs.cache
+E:\HollandCollege\Fall_2019\WindowsProgramming\TripMileageApp\TripMileageApp\obj\Debug\TripMileageApp.exe
+E:\HollandCollege\Fall_2019\WindowsProgramming\TripMileageApp\TripMileageApp\obj\Debug\TripMileageApp.pdb
