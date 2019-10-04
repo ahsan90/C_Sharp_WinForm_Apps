@@ -22,8 +22,8 @@ d.	Clear All button should clear the summary running totals of all sales persons
  
 	Insurance Amount		  Commission Rate
 	
-	   <1000				0.5
-	  <100,000				0.1
+	   <1000				0.5,
+	  <100,000				0.1,
 	 <1,000,000
 		or				0.2
 	 >1,000,000				
