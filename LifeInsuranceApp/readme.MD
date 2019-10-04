@@ -20,13 +20,11 @@ d.	Clear All button should clear the summary running totals of all sales persons
 4.	The following table provide the commission rate of based on policy amounts:
 
  
-	Insurance Amount		  Commission Rate
+	Insurance Amount and Commission Rate are
 	
-	   <1000				0.5,
-	  <100,000				0.1,
-	 <1,000,000
-		or				0.2
-	 >1,000,000				
+	   <1000 - 0.5,
+	  <100,000 - 0.1,
+	 <1,000,000 or >1,000,000 - 0.2				
 	
 
 Solution Approach:
