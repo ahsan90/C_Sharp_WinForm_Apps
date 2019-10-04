@@ -28,6 +28,7 @@ d.	Clear All button should clear the summary running totals of all sales persons
 	
 
 Solution Approach:
+------------------
 
 Solution is provided based tradition windows form application. Object Oriented Programming technique is utilized in this solution where UI, Model and Logic layer are separated using different classes and its members.
 
