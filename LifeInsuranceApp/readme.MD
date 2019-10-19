@@ -2,10 +2,10 @@
 ------------------------------------------------------------------
 
 
-1.	This program provides the solution of the following problem :
-Complete and Submit the following:  
+This program provides the solution of the following problem :
+
 1.	Situations:  Life Insurance Salespersons are paid by commission of their sales. 
-2.	Create a Windows Application form that uses text boxes to obtain the Sales Person's name (lastname, firstname in separate textboxes) and the insurance amount of the policy sold.  Include a:
+2.	Create a Windows Application form that uses text boxes to obtain the Sales Person's name (lastname, firstname in separate textboxes) and the insurance amount of the policy sold.  Include:
 
 a.	Calculate button to display the commission dollar amount earned, as well the rate received based on the policy sales amount.  
 
@@ -20,18 +20,22 @@ d.	Clear All button should clear the summary running totals of all sales persons
 4.	The following table provide the commission rate of based on policy amounts:
 
  
-	Insurance Amount	Commission Rate
+	Insurance Amount and Commission Rate are
 	
-		 <1000				0.5
-	  <100,000				0.1
-	 <1,000,000
-		or					0.2
-	 >1,000,000				
+	   <1000 - 0.5,
+	  <100,000 - 0.1,
+	 <1,000,000 or >1,000,000 - 0.2				
 	
 
 Solution Approach:
+------------------
 
 Solution is provided based tradition windows form application. Object Oriented Programming technique is utilized in this solution where UI, Model and Logic layer are separated using different classes and its members.
 
 A model class named SalesPerson is created to hold all the properties and other members including methods and constructor.
+
+Another helper class named SalesPersonUtility is created for performing logical operation(e.g adding or updating a salesperson object to the repository by meeting specific criteria). 
+
+The whole program is solved based on the principle of multitier application. 
+
 
