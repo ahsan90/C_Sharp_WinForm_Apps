@@ -70,7 +70,7 @@ namespace MD_Pizza_Express
 
             for (int i = 0; i <= checkedListBoxForIngredients.CheckedIndices.Count-1; i++)
             {
-                tempToppingList += checkedListBoxForIngredients.CheckedItems[i].ToString() + (i == (checkedListBoxForIngredients.CheckedIndices.Count - 1) ? "" : ", ");
+                tempToppingList += checkedListBoxForIngredients.CheckedItems[i].ToString() + (i == (checkedListBoxForIngredients.CheckedIndices.Count - 1) ? "." : ", ");
             }
     
             
