@@ -1,0 +1,10 @@
+D:\HollandCollege\Fall_2019\WindowsProgramming\MD_Pizza_Express\MD_Pizza_Express\bin\Debug\MD_Pizza_Express.exe.config
+D:\HollandCollege\Fall_2019\WindowsProgramming\MD_Pizza_Express\MD_Pizza_Express\bin\Debug\MD_Pizza_Express.exe
+D:\HollandCollege\Fall_2019\WindowsProgramming\MD_Pizza_Express\MD_Pizza_Express\bin\Debug\MD_Pizza_Express.pdb
+D:\HollandCollege\Fall_2019\WindowsProgramming\MD_Pizza_Express\MD_Pizza_Express\obj\Debug\MD_Pizza_Express.csprojAssemblyReference.cache
+D:\HollandCollege\Fall_2019\WindowsProgramming\MD_Pizza_Express\MD_Pizza_Express\obj\Debug\MD_Pizza_Express.PizzaForm.resources
+D:\HollandCollege\Fall_2019\WindowsProgramming\MD_Pizza_Express\MD_Pizza_Express\obj\Debug\MD_Pizza_Express.Properties.Resources.resources
+D:\HollandCollege\Fall_2019\WindowsProgramming\MD_Pizza_Express\MD_Pizza_Express\obj\Debug\MD_Pizza_Express.csproj.GenerateResource.cache
+D:\HollandCollege\Fall_2019\WindowsProgramming\MD_Pizza_Express\MD_Pizza_Express\obj\Debug\MD_Pizza_Express.csproj.CoreCompileInputs.cache
+D:\HollandCollege\Fall_2019\WindowsProgramming\MD_Pizza_Express\MD_Pizza_Express\obj\Debug\MD_Pizza_Express.exe
+D:\HollandCollege\Fall_2019\WindowsProgramming\MD_Pizza_Express\MD_Pizza_Express\obj\Debug\MD_Pizza_Express.pdb
