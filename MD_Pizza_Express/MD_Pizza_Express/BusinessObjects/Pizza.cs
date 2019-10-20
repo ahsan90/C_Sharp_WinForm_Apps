@@ -122,8 +122,18 @@ namespace MD_Pizza_Express.BusinessObjects
             this.cost = DetermineCostBasedOnSize(this.size) + 0.75 * countToppings;
         }
 
-        override
-        public string ToString()
+        /*
+          Method name:  ToString
+          Version:   1.1.1
+          Author: Md Ahsanul Hoque
+          #Description:  This method returns single pizza order
+          Inputs:   Parameters- none
+          Outputs: none
+          Dependencies:  N/A
+          Return value: none
+          Change History:   20191020 By Md Ahsanul Hoque
+        */
+        public override string ToString()
         {
             string output = "Size: " + DetermineSizeText(this.size) + "\nSauce type: " + this.sauceType + "\nToppings($0.75 each): " + this.Toppings + "\nTotal cost: " + this.cost.ToString("C");
 
@@ -187,6 +197,42 @@ namespace MD_Pizza_Express.BusinessObjects
                     break;
             }
             return text;
+        }
+
+        /*
+         Method name:  GetSummaryInfo
+         Version:   1.1.1
+         Author: Md Ahsanul Hoque
+         #Description:  Return the order summary as a string
+         Inputs:   Parameters- none
+         Outputs: returns the appropriate text
+         Dependencies:  N/A
+         Return value: summaryt
+         Change History:   20191020 By Md Ahsanul Hoque
+       */
+
+        public static string GetSummaryInfo()
+        {
+            string summary = "";
+
+            //When there are orders in the listing then store them in tempOrderListin variable
+            if (pizzaOrderList.Count > 0)
+            {
+                for (int i = 0; i <= pizzaOrderList.Count - 1; i++)
+                {
+                    summary += "Order No: " + (i + 1) + "\n";
+                    summary += pizzaOrderList[i].ToString() + (i == (pizzaOrderList.Count - 1) ? "" : "\n") + "\n";
+                }
+                //Calculate and store the total cost of all order listing for outputing
+                double totalOrderValue = pizzaOrderList.Select(x => x).Sum(y => y.GetCost());
+                summary = "--Listing pizza order placed so far--\n\n" + summary + "\n\nTotal order value($): " + totalOrderValue.ToString("C");
+            }
+            else
+            {
+                summary = "No order placed yet...";
+            }
+
+            return summary;
         }
     }
 }

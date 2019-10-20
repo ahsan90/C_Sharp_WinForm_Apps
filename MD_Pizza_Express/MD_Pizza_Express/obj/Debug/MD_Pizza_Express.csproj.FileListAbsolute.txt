@@ -8,3 +8,13 @@ D:\HollandCollege\Fall_2019\WindowsProgramming\MD_Pizza_Express\MD_Pizza_Express
 D:\HollandCollege\Fall_2019\WindowsProgramming\MD_Pizza_Express\MD_Pizza_Express\obj\Debug\MD_Pizza_Express.csproj.CoreCompileInputs.cache
 D:\HollandCollege\Fall_2019\WindowsProgramming\MD_Pizza_Express\MD_Pizza_Express\obj\Debug\MD_Pizza_Express.exe
 D:\HollandCollege\Fall_2019\WindowsProgramming\MD_Pizza_Express\MD_Pizza_Express\obj\Debug\MD_Pizza_Express.pdb
+E:\Dumy Projects\C_Sharp_WinForm_Apps\MD_Pizza_Express\MD_Pizza_Express\bin\Debug\MD_Pizza_Express.exe.config
+E:\Dumy Projects\C_Sharp_WinForm_Apps\MD_Pizza_Express\MD_Pizza_Express\bin\Debug\MD_Pizza_Express.exe
+E:\Dumy Projects\C_Sharp_WinForm_Apps\MD_Pizza_Express\MD_Pizza_Express\bin\Debug\MD_Pizza_Express.pdb
+E:\Dumy Projects\C_Sharp_WinForm_Apps\MD_Pizza_Express\MD_Pizza_Express\obj\Debug\MD_Pizza_Express.csprojAssemblyReference.cache
+E:\Dumy Projects\C_Sharp_WinForm_Apps\MD_Pizza_Express\MD_Pizza_Express\obj\Debug\MD_Pizza_Express.PizzaForm.resources
+E:\Dumy Projects\C_Sharp_WinForm_Apps\MD_Pizza_Express\MD_Pizza_Express\obj\Debug\MD_Pizza_Express.Properties.Resources.resources
+E:\Dumy Projects\C_Sharp_WinForm_Apps\MD_Pizza_Express\MD_Pizza_Express\obj\Debug\MD_Pizza_Express.csproj.GenerateResource.cache
+E:\Dumy Projects\C_Sharp_WinForm_Apps\MD_Pizza_Express\MD_Pizza_Express\obj\Debug\MD_Pizza_Express.csproj.CoreCompileInputs.cache
+E:\Dumy Projects\C_Sharp_WinForm_Apps\MD_Pizza_Express\MD_Pizza_Express\obj\Debug\MD_Pizza_Express.exe
+E:\Dumy Projects\C_Sharp_WinForm_Apps\MD_Pizza_Express\MD_Pizza_Express\obj\Debug\MD_Pizza_Express.pdb
