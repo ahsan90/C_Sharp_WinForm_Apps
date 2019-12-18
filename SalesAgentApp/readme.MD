@@ -16,20 +16,20 @@ Requirements:	**Remember your internal documentation!
 	
 	a.User should be able to enter their LastName, FirstName, ande-mail in separate TextBoxes.
 	
-	b.Use Radio buttons in a GroupBox to allow agenttype selection:\
-		i. Junior Agent\
-		ii. Agent\
+	b.Use Radio buttons in a GroupBox to allow agenttype selection:
+		i. Junior Agent
+		ii. Agent
 		iii. Senior Agent
 	c.A Textbox should be used for the sales amount being calculated.
 	
 	d.Create aBase Class AgentObject that will receive all the entered data with a calculate method for the commission levelsgiven the following formulas:NOTE:Create all classes within the solution, no need to implement .DLL
-		i.Agent commission levels based on sales amount, the ranges are:
+		i. Agent commission levels based on sales amount, the ranges are:
 		
-		1.Under $1,000: Rate of 2%\
-		2.Between $1,000 and $5,000: Rate of 4%\
-		3.Over $5,000: Rate of 6%
+		   1. Under $1,000: Rate of 2%
+		   2. Between $1,000 and $5,000: Rate of 4%
+		   3. Over $5,000: Rate of 6%
 		
-		ii.Calculatecommission income by multiplying the Sales Amount by Commission Rate.
+		ii. Calculatecommission income by multiplying the Sales Amount by Commission Rate.
 		
 		
 		
