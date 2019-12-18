@@ -13,11 +13,11 @@ Presentation Tier:\
 
 i.	Add a MenuStrip with the following structure:
 
-	File\    
-		Exit\    
-	Order\ 
-		Order\
-		Checkout Order\
+	File
+	   Exit
+	Order
+	   Order
+	   Checkout Order
 	•Code Exitfunctionality from menu command option.\
 	•Code Place Orderfunctionality of the menu according tostep 2ebelow.\
 	•Code CheckoutOrder functionality of the menu according tostep 3 below
