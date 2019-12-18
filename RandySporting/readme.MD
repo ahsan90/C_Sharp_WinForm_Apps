@@ -10,7 +10,7 @@ Randy Hemlet owns a sport consulting firm.  Hisclients can select from the follo
 
 Distributed discount:\
 ✓10%\
-✓20%\
+✓20%
 
 Create a Windows Forms project that will allow theuserto select one of the two discount rates or none, and then the services.The interface you are to replicate is found on the second page of this document.
 
